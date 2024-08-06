@@ -25,24 +25,29 @@ async function parseJSON(word) {
                 .map((feature) => feature.tam_adi)
                 .join(", ")})`;
             } else if (topType != "3" && topType != undefined) {
-              featureString = `(${word[i].anlamlarListe[0].ozelliklerListe
+              const subType = word[i].anlamlarListe[0].ozelliklerListe
                 .map((feature) =>
                   feature.tur == "3" || feature.tur == "4"
                     ? feature.tam_adi
                     : ""
                 )
                 .filter((feature) => feature != "")
-                .join(", ")}, ${features
-                .map((feature) => feature.tam_adi) // This map will go over ozelliklerListe that has tur value != 3 and adds their tam_adi to feautureString
-                .join(", ")})`;
+                .join(", ");
+
+              const meaningOwnType = features
+                .map((feature) => feature.tam_adi)
+                .join(", ");
+
+              featureString = `(${subType}, ${meaningOwnType})`;
             }
           } else {
-            // if the meaning does not have ozelliklerListe so it will inherit the ozelliklerListe from the first element of anlamlarListe
-            featureString = `(${word[i].anlamlarListe[0].ozelliklerListe
+            const fallbackType = word[i].anlamlarListe[0].ozelliklerListe
               .map((feature) =>
                 feature.tur == "3" ? feature.tam_adi : feature.tam_adi
               )
-              .join(", ")})`;
+              .join(", ");
+            // if the meaning does not have ozelliklerListe so it will inherit the ozelliklerListe from the first element of anlamlarListe
+            featureString = `(${fallbackType})`;
           }
           console.log(`${j + 1}- ${featureString} ${meaning}`);
         }
