@@ -29,9 +29,9 @@ async function parseJSON(word) {
                 .map((feature) =>
                   feature.tur == "3" || feature.tur == "4"
                     ? feature.tam_adi
-                    : "-"
+                    : ""
                 )
-                .filter((feature) => feature != "-")
+                .filter((feature) => feature != "")
                 .join(", ")}, ${features
                 .map((feature) => feature.tam_adi) // This map will go over ozelliklerListe that has tur value != 3 and adds their tam_adi to feautureString
                 .join(", ")})`;
