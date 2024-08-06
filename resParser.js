@@ -48,7 +48,7 @@ async function parseJSON(word) {
         }
       }
     } else {
-      console.log(`Word not found`);
+      console.log(`Words not found`);
     }
   } catch (error) {
     console.log(`Error Parsing Response` + error);
