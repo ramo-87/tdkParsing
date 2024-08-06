@@ -54,5 +54,6 @@ async function parseJSON(word) {
     console.log(`Error Parsing Response` + error);
   }
 }
-
-parseJSON("meme");
+module.exports = {
+  parseJSON,
+};
