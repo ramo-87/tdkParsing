@@ -1,0 +1,354 @@
+{
+  "isUnsuccessful": false,
+  "words": [
+    {
+      "_id": "5fef94204fa2712db0e464cf",
+      "etymologies": [
+        {
+          "_id": "61d63071a5eee60d1c0d9656",
+          "id_depr": 6229,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde24211449",
+            "name": "ses evrimi",
+            "abbreviation": "<<",
+            "text": "den evrilmiştir."
+          },
+          "languages": [
+            {
+              "_id": "5fef828a1678a972d9472517",
+              "name": "Eski Türkçe",
+              "description": "8. ila 11. yy'ların Orta Asya yazı Türkçesi.",
+              "description2": "Eski Türkçe",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "ETü",
+              "id_depr": 149
+            }
+          ],
+          "originalText": "",
+          "romanizedText": "eşgek",
+          "definition": "«yürügen», malum yük hayvanı",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2015-01-09T13:34:24.000Z",
+          "affixes": {},
+          "grammar": {}
+        },
+        {
+          "_id": "61d6fb52abae44c7616db245",
+          "id_depr": 36712,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde2421144b",
+            "name": "türeme",
+            "abbreviation": "<",
+            "text": "den türetilmiştir."
+          },
+          "languages": [
+            {
+              "_id": "5fef828a1678a972d9472517",
+              "name": "Eski Türkçe",
+              "description": "8. ila 11. yy'ların Orta Asya yazı Türkçesi.",
+              "description2": "Eski Türkçe",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "ETü",
+              "id_depr": 149
+            }
+          ],
+          "originalText": "e",
+          "romanizedText": "eş-",
+          "affixes": {
+            "suffix": {
+              "_id": "5ff05f0dec33d6674335e427",
+              "name": "+(g)Ak",
+              "description": "Partisip ekidir. %bETü geçişli fiillerden nesne adı, geçişsiz fiillerden özne ve eylem adı yapar. %bETü +gAk biçimi egemendir, ancak erken dönemden itibaren +Ak örnekleri  görülür (%içörek, %isakak, %iyürek). %bTTü /g/ sesi erir ve tüm örnekler +Ak olarak telaffuz edilir.",
+              "language": {
+                "_id": "5fef828d1678a972d9472539"
+              },
+              "timeCreated": "2021-01-02T11:54:39.106Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "id_depr": 11
+            }
+          },
+          "definition": "(at vb.) yorga yürümek",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ff4fa0cb0ae5e821c16f429",
+            "name": "fiil",
+            "description": "fiil",
+            "abbreviation": "f"
+          },
+          "timeCreated": "2014-07-21T10:19:48.000Z",
+          "timeUpdated": "2016-01-05T11:19:19.000Z",
+          "grammar": {}
+        }
+      ],
+      "histories": [
+        {
+          "_id": "61d612fa23ba15712c41720f",
+          "id_depr": 3420,
+          "language": {
+            "_id": "5fef828a1678a972d9472517",
+            "name": "Eski Türkçe",
+            "description": "8. ila 11. yy'ların Orta Asya yazı Türkçesi.",
+            "description2": "Eski Türkçe",
+            "timeCreated": "2021-01-01T20:13:55.477Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "abbreviation": "ETü",
+            "id_depr": 149
+          },
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "631dc5de7f739f19dcd57276",
+            "abbreviation": "UyMan",
+            "name": "",
+            "book": "Türkische Manichäica aus Chotscho 1-3",
+            "editor": "A. v. le Coq",
+            "date": "<900",
+            "datePublished": "Berlin 1911-1922"
+          },
+          "date": "<900",
+          "dateSortable": 900,
+          "quote": "atnıŋ %ueşgekniŋ müyüzi örmez [atın eşeğin boynuzu çıkmaz]",
+          "timeCreated": "1970-01-01T02:00:00.000Z",
+          "timeUpdated": "2022-09-11T12:18:45.496Z"
+        },
+        {
+          "_id": "61d6216223ba15712c41b118",
+          "id_depr": 20956,
+          "language": {
+            "_id": "5fef828a1678a972d9472517",
+            "name": "Eski Türkçe",
+            "description": "8. ila 11. yy'ların Orta Asya yazı Türkçesi.",
+            "description2": "Eski Türkçe",
+            "timeCreated": "2021-01-01T20:13:55.477Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "abbreviation": "ETü",
+            "id_depr": 149
+          },
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19df",
+            "name": "Kaşgarî",
+            "book": "Divan-i Lugati't-Türk",
+            "editor": "Atalay",
+            "datePublished": "TDK 1941",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 69,
+            "abbreviation": "Kaş",
+            "date": "1070"
+          },
+          "date": "1073",
+          "dateSortable": 1073,
+          "quote": "%ueşgek: al-ḥimār. [[Bir diğer telaffuzu daha fasih olan %ueşyek'tir.]]",
+          "timeCreated": "2015-02-10T09:49:11.000Z",
+          "timeUpdated": "2015-03-16T15:55:57.000Z"
+        },
+        {
+          "_id": "61d6248e23ba15712c41bed1",
+          "id_depr": 24648,
+          "excerpt": "uzun eşek",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e1ae1",
+            "name": "",
+            "book": "Lugat-i Halimi",
+            "editor": "Uzun",
+            "datePublished": "TDK 2013",
+            "timeCreated": "2021-01-01T21:53:48.004Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 353,
+            "abbreviation": "Hal",
+            "date": "1477"
+          },
+          "date": "1477",
+          "dateSortable": 1477,
+          "quote": "χirsek [Fa.]: Bir oyundur ki oğlancuklar oynarlar... Bu yerlerde bu oyuna %uuzun %ueşek dérler.",
+          "timeCreated": "2017-09-17T23:27:54.000Z",
+          "timeUpdated": "2017-09-17T23:29:21.000Z"
+        },
+        {
+          "_id": "61d61f7a23ba15712c41a906",
+          "id_depr": 18776,
+          "language": {
+            "_id": "5fef828a1678a972d947251d",
+            "name": "Türkiye Türkçesi",
+            "description": "14. ila 21. yy arasında Türkiye Tükçesinde kullanılan her sözcük, kökeninden bağımsız olarak bu şekilde işaretlenmiştir.",
+            "description2": "Türkçe",
+            "timeCreated": "2021-01-01T20:13:55.477Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "abbreviation": "TTü",
+            "id_depr": 157
+          },
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19ef",
+            "name": "Meninski",
+            "book": "Thesaurus",
+            "editor": "",
+            "datePublished": "tıpk. Simurg 2000",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 86,
+            "abbreviation": "Men",
+            "date": "1680"
+          },
+          "date": "1680",
+          "dateSortable": 1680,
+          "quote": "%ueşek siŋeği, %ueşekçi",
+          "timeCreated": "2014-07-21T13:30:35.000Z",
+          "timeUpdated": "2017-09-17T23:27:51.000Z"
+        },
+        {
+          "_id": "61d61f7a23ba15712c41a907",
+          "id_depr": 18777,
+          "language": {
+            "_id": "5fef828a1678a972d947251d",
+            "name": "Türkiye Türkçesi",
+            "description": "14. ila 21. yy arasında Türkiye Tükçesinde kullanılan her sözcük, kökeninden bağımsız olarak bu şekilde işaretlenmiştir.",
+            "description2": "Türkçe",
+            "timeCreated": "2021-01-01T20:13:55.477Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "abbreviation": "TTü",
+            "id_depr": 157
+          },
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19ed",
+            "name": "Ahmed Vefik Paşa",
+            "book": "Lehce-i Osmani",
+            "editor": "Toparlı",
+            "datePublished": "TDK 2000",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 84,
+            "abbreviation": "LO",
+            "date": "1876"
+          },
+          "date": "1876",
+          "dateSortable": 1876,
+          "quote": "%ueşek arısı, yaban %ueşeği",
+          "timeCreated": "2014-07-21T13:31:34.000Z",
+          "timeUpdated": "2017-09-17T23:27:52.000Z"
+        }
+      ],
+      "id_depr": 2907,
+      "misspellings": ["esek", "eşşek"],
+      "name": "eşek",
+      "note": "Anlam bağı için karş. %imerkeb \"taşıyıcı\", %içarpā \"dörtayak\", i.e. \"eşek\". %bMoğ %ielçigen (a.a.) benzer yapıdadır. • 5. yy'dan itibaren örnekleri bulunan %bErm %iéş էշ (a.a.) ve küçültme hali %iişak իշակ \"eşek yavrusu\" ile benzerliği tesadüf olmalıdır. %bSumer %ianşe ve %bLat %iasinus (a.a.) ile ilişkilendirme denemeleri başarısızdır.",
+      "queries": [
+        "esek",
+        "eşek",
+        "eşşek",
+        "eşek arısı",
+        "eşşoğlu eşek",
+        "uzun eşek",
+        "eşekçi",
+        "eşekleş-"
+      ],
+      "references": [
+        {
+          "_id": "5fef94204fa2712db0e464cc",
+          "id_depr": 2904,
+          "name": "eş-",
+          "note": "",
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2017-08-27T15:49:46.000Z",
+          "queries": ["eş-", "eşele-", "eşil-", "eşin-"],
+          "similarWords": ["eşele-", "eşil-", "eşin-"],
+          "references": [],
+          "etymologies": [
+            {
+              "_id": "61d6fd29abae44c7616db759"
+            },
+            {
+              "_id": "61d6306fa5eee60d1c0d9650"
+            }
+          ],
+          "histories": [
+            {
+              "_id": "61d6216223ba15712c41b117"
+            },
+            {
+              "_id": "61d612f923ba15712c41720c"
+            },
+            {
+              "_id": "61d6228123ba15712c41b5c1"
+            }
+          ]
+        }
+      ],
+      "similarWords": [
+        "eşek arısı",
+        "eşşoğlu eşek",
+        "uzun eşek",
+        "eşekçi",
+        "eşekleş-"
+      ],
+      "timeCreated": "1970-01-01T00:00:00.000Z",
+      "timeUpdated": "2019-02-25T09:54:05.000Z",
+      "actualTimeUpdated": "2022-09-11T12:18:45.496Z"
+    }
+  ],
+  "fiveBefore": [
+    {
+      "_id": "5fef94204fa2712db0e464cc",
+      "name": "eş-"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48d70",
+      "name": "eşanjör"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464cd",
+      "name": "eşantiyon"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464ce",
+      "name": "eşarp"
+    },
+    {
+      "_id": "5fef94204fa2712db0e4907b",
+      "name": "eşcinsel"
+    }
+  ],
+  "fiveAfter": [
+    {
+      "_id": "5fef94204fa2712db0e464d0",
+      "name": "eşel mobil"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48cd5",
+      "name": "eşelek"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48a02",
+      "name": "eşey"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48be3",
+      "name": "eşhas"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d1",
+      "name": "eşik"
+    }
+  ],
+  "randomWord": {
+    "_id": "5fef94204fa2712db0e46f24",
+    "name": "kompetan"
+  }
+}

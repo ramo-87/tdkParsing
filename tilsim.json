@@ -1,0 +1,251 @@
+{
+  "isUnsuccessful": false,
+  "words": [
+    {
+      "_id": "5fef94204fa2712db0e481d4",
+      "etymologies": [
+        {
+          "_id": "61d6489ba5eee60d1c0dd819",
+          "id_depr": 24380,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde24211448",
+            "name": "alıntı",
+            "abbreviation": "~",
+            "text": "den alıntıdır."
+          },
+          "languages": [
+            {
+              "_id": "5fef82841678a972d94724ae",
+              "name": "Arapça",
+              "description": "Klasik yazı Arapçası. Ana kaynaklar: Kamus (15. yy), Vankulu Lugati, Lane Lexicon.",
+              "description2": "Arapça",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "Ar",
+              "id_depr": 9
+            }
+          ],
+          "originalText": "طلسم",
+          "romanizedText": "ṭilsim/ṭilism",
+          "grammar": {
+            "semiticRoot": "#ṭlsm",
+            "grammaticalCase": "q.",
+            "case": [
+              {
+                "_id": "60657df3b0b20eea7ce44320",
+                "order": 0,
+                "name": "q.",
+                "description": "murabba (dörtlü) fiil kökü",
+                "tooltip": "quadriliteral (Arapça murabba [dörtlü] fiil kökü)"
+              }
+            ]
+          },
+          "definition": "büyü, özellikle bir hazineyi koruyan büyü",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2015-09-09T12:42:10.000Z",
+          "affixes": {}
+        },
+        {
+          "_id": "61d6489ba5eee60d1c0dd81a",
+          "id_depr": 24382,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde24211448",
+            "name": "alıntı",
+            "abbreviation": "~",
+            "text": "den alıntıdır."
+          },
+          "languages": [
+            {
+              "_id": "5fef82871678a972d94724ea",
+              "name": "Eski Yunanca",
+              "description": "MÖ 6. ile MS 6. yy arasına ait Attika Yunancası. Ana kaynak: Liddell & Scott, Greek Lexicon. Etimolojik analiz için Chantraine ve H. Frisk.",
+              "description2": "Yunanca",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "EYun",
+              "id_depr": 72
+            }
+          ],
+          "originalText": "τέλεσμα",
+          "romanizedText": "télesma(t)",
+          "definition": "icraat, resmi işlem, tören, ayin",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2022-07-07T14:07:43.089Z",
+          "affixes": {},
+          "grammar": {}
+        },
+        {
+          "_id": "61d6489ca5eee60d1c0dd81b",
+          "id_depr": 24383,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde2421144b",
+            "name": "türeme",
+            "abbreviation": "<",
+            "text": "den türetilmiştir."
+          },
+          "languages": [
+            {
+              "_id": "5fef82871678a972d94724ea",
+              "name": "Eski Yunanca",
+              "description": "MÖ 6. ile MS 6. yy arasına ait Attika Yunancası. Ana kaynak: Liddell & Scott, Greek Lexicon. Etimolojik analiz için Chantraine ve H. Frisk.",
+              "description2": "Yunanca",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "EYun",
+              "id_depr": 72
+            }
+          ],
+          "originalText": "τελέω",
+          "romanizedText": "teléō",
+          "affixes": {
+            "suffix": {
+              "_id": "5ff05f0dec33d6674335e493",
+              "name": "+ma(t)°",
+              "description": "%bYun fiilden eylem adı üretir. Nominatif +ma, ancak herhangi bir takı aldığı zaman +mat- biçimini alır (%idogma > %idogmat-, %iaksioma > %iaksiomat-, %idema > %idemat-). Hintavrupa Anadilindeki -mn̥- ekinin refleksidir. Fiil kökü Yunancada mevcut olmayan bazı türevlerin Pre-Yunancadan veya Hintavrupa Anadilinden kalıntı oldukları varsayılabilir (Örnek: %ionýma “isim”, %isēma “işaret”, %ihaíma “kan”, %ikóma “uyku”, %isōma “gövde”).",
+              "language": {
+                "_id": "5fef828a1678a972d9472515"
+              },
+              "timeCreated": "2021-01-02T11:54:45.172Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "id_depr": 149
+            }
+          },
+          "definition": "ifa etmek, icra etmek, resmi bir işin gereğini yapmak",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ff4fa0cb0ae5e821c16f429",
+            "name": "fiil",
+            "description": "fiil",
+            "abbreviation": "f"
+          },
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2023-09-23T09:07:24.345Z",
+          "grammar": {}
+        }
+      ],
+      "histories": [
+        {
+          "_id": "61d6241b23ba15712c41bcd0",
+          "id_depr": 24114,
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e1b0b",
+            "name": "Nasırüddin Rabguzi",
+            "book": "Kısasü'l-Enbiya terc.",
+            "editor": "Ata",
+            "datePublished": "TDK 1997",
+            "timeCreated": "2021-01-01T21:53:48.004Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 397,
+            "abbreviation": "Rab",
+            "date": "1310"
+          },
+          "date": "1310",
+          "dateSortable": 1310,
+          "quote": "%uṭılısm birle cādūlık birle keçdim [tılsımla sihirle geçtim], melik sarāyınğa bardım",
+          "timeCreated": "2017-08-22T23:35:13.000Z",
+          "timeUpdated": "2017-08-22T23:36:53.000Z"
+        },
+        {
+          "_id": "61d61a4623ba15712c4192e3",
+          "id_depr": 12323,
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19ca",
+            "name": "anon.",
+            "book": "Ferec ba'd eş-şidde",
+            "editor": "Házai",
+            "datePublished": "Berlin 2006",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 46,
+            "abbreviation": "Fer",
+            "date": "1451"
+          },
+          "date": "<1451",
+          "dateSortable": 1451,
+          "quote": "nice %uṭılsm ol dāire üzerine yazdı, bir nice afsūn okıdı",
+          "timeCreated": "1970-01-01T02:00:00.000Z",
+          "timeUpdated": "2017-08-22T23:35:59.000Z"
+        }
+      ],
+      "id_depr": 10953,
+      "misspellings": null,
+      "name": "tılsım",
+      "note": "%bİng %italisman (a.a.) biçimi İspanyolca yoluyla Arapçadan alınmıştır.",
+      "queries": ["tılsım", "tılsımlı"],
+      "references": [],
+      "similarWords": ["tılsımlı"],
+      "timeCreated": "1970-01-01T00:00:00.000Z",
+      "timeUpdated": "2020-04-09T12:33:24.000Z",
+      "actualTimeUpdated": "2023-09-23T09:07:24.345Z"
+    }
+  ],
+  "fiveBefore": [
+    {
+      "_id": "5fef94204fa2712db0e481cf",
+      "name": "tıka-"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d0",
+      "name": "tıkaç"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d1",
+      "name": "tıkız"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d2",
+      "name": "tıknaz"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d3",
+      "name": "tıksır-"
+    }
+  ],
+  "fiveAfter": [
+    {
+      "_id": "5fef94204fa2712db0e481d5",
+      "name": "tımar"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d6",
+      "name": "tın"
+    },
+    {
+      "_id": "5fef94204fa2712db0e481d7",
+      "name": "tın-"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48c10",
+      "name": "tınaz"
+    },
+    {
+      "_id": "5fef94204fa2712db0e49425",
+      "name": "tıngır"
+    }
+  ],
+  "randomWord": {
+    "_id": "5fef94204fa2712db0e47302",
+    "name": "medüz"
+  }
+}

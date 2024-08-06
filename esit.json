@@ -1,0 +1,218 @@
+{
+  "isUnsuccessful": false,
+  "words": [
+    {
+      "_id": "5fef94204fa2712db0e464d2",
+      "etymologies": [
+        {
+          "_id": "61d63073a5eee60d1c0d965c",
+          "id_depr": 6236,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde2421144b",
+            "name": "türeme",
+            "abbreviation": "<",
+            "text": "den türetilmiştir."
+          },
+          "languages": [
+            {
+              "_id": "5fef828a1678a972d947251d",
+              "name": "Türkiye Türkçesi",
+              "description": "14. ila 21. yy arasında Türkiye Tükçesinde kullanılan her sözcük, kökeninden bağımsız olarak bu şekilde işaretlenmiştir.",
+              "description2": "Türkçe",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "TTü",
+              "id_depr": 157
+            }
+          ],
+          "originalText": "y",
+          "romanizedText": "eş",
+          "affixes": {
+            "suffix": {
+              "_id": "5ff05f0dec33d6674335e48d",
+              "name": "+Ut",
+              "description": "%bETü partisip ekidir. %bTTü 17. yy'dan sonra küçük ses uyumuna tabi olarak +It biçimini almıştır. %bETü +Ur- sonsesli fiillerde genellikle hece düşmesi görülür (%içaşur- > %içaşut, %ikavur- > %ikavut; ancak %iadır- > %iadırt, %iyogur- > %iyogurt). %bYTü her türlü fiil (%ianıt, %idikit, %ikalıt, %ikonut, %ikoşut, %iyapıt, %iyazıt), ad (%iboyut, %idölüt, %iözüt), sıfat (%isomut) ve edattan (%ikarşıt) her türlü anlama gelebilecek ad ve sıfat yapmakta kullanılmıştır.",
+              "language": {
+                "_id": "5fef828d1678a972d9472539"
+              },
+              "timeCreated": "2021-01-02T11:54:44.832Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "id_depr": 142
+            }
+          },
+          "definition": "",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2014-12-04T12:30:36.000Z",
+          "grammar": {}
+        }
+      ],
+      "histories": [
+        {
+          "_id": "61d612fa23ba15712c417212",
+          "id_depr": 3423,
+          "language": {
+            "_id": "5fef828a1678a972d947251e",
+            "name": "Yeni Türkçe",
+            "description": "Dil Devrimi döneminde (1934-1983) üretilen veya yeni anlam yüklenen Türkçe sözcükler.",
+            "description2": "Yeni Türkçe",
+            "timeCreated": "2021-01-01T20:13:55.477Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "abbreviation": "YTü",
+            "id_depr": 158
+          },
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19bb",
+            "name": "",
+            "book": "Cumhuriyet (gazete)",
+            "editor": "",
+            "datePublished": "",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 29,
+            "abbreviation": "Cum",
+            "date": ""
+          },
+          "date": "1935",
+          "dateSortable": 1935,
+          "quote": "Müsavat - %ueşitlik ... Müsavi - %ueşit",
+          "timeCreated": "1970-01-01T02:00:00.000Z",
+          "timeUpdated": "2022-08-30T11:46:47.917Z"
+        }
+      ],
+      "id_depr": 2910,
+      "misspellings": null,
+      "name": "eşit",
+      "note": "Tarama Dergisi'ne göre (1934) YTü sözcük 'İstanbul ağzından' derlenmiştir. Yine İstanbul ağzına mahsus olup 19. yy'da ortaya çıkan %iyaşıt sözcüğüne paralel yapıdadır. Ada eklenen %i+It ekinin kaynağı ve işlevi belirsizdir.",
+      "queries": ["eşit", "eşitle-", "eşitlen-", "eşitlik"],
+      "references": [
+        {
+          "_id": "5fef94204fa2712db0e464cb",
+          "id_depr": 2903,
+          "name": "eş",
+          "note": "",
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2015-02-10T08:19:44.000Z",
+          "queries": [
+            "eş",
+            "eşgüdüm",
+            "eşle-",
+            "eşleş-",
+            "eşli",
+            "eşlik et-",
+            "eşsiz",
+            "eşzamanlı",
+            "eşleştir-",
+            "eşkenar",
+            "eşbaşkan",
+            "eşanlamlı",
+            "eşsüremsel",
+            "tekeş"
+          ],
+          "similarWords": [
+            "eşgüdüm",
+            "eşle-",
+            "eşleş-",
+            "eşli",
+            "eşlik et-",
+            "eşsiz",
+            "eşzamanlı",
+            "eşleştir-",
+            "eşkenar",
+            "eşbaşkan",
+            "eşanlamlı",
+            "eşsüremsel",
+            "tekeş"
+          ],
+          "references": [],
+          "etymologies": [
+            {
+              "_id": "61d6306ea5eee60d1c0d964f"
+            }
+          ],
+          "histories": [
+            {
+              "_id": "61d612f923ba15712c41720b"
+            },
+            {
+              "_id": "61d61fb323ba15712c41a9f1"
+            },
+            {
+              "_id": "61d61fb323ba15712c41a9f2"
+            },
+            {
+              "_id": "61d6216323ba15712c41b11a"
+            },
+            {
+              "_id": "61d6216223ba15712c41b119"
+            },
+            {
+              "_id": "61d6216323ba15712c41b11b"
+            }
+          ]
+        }
+      ],
+      "similarWords": ["eşitle-", "eşitlen-", "eşitlik"],
+      "timeCreated": "1970-01-01T00:00:00.000Z",
+      "timeUpdated": "2022-08-30T11:47:45.339Z",
+      "actualTimeUpdated": "2022-08-30T11:47:45.339Z"
+    }
+  ],
+  "fiveBefore": [
+    {
+      "_id": "5fef94204fa2712db0e464d0",
+      "name": "eşel mobil"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48cd5",
+      "name": "eşelek"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48a02",
+      "name": "eşey"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48be3",
+      "name": "eşhas"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d1",
+      "name": "eşik"
+    }
+  ],
+  "fiveAfter": [
+    {
+      "_id": "5fef94204fa2712db0e464d3",
+      "name": "eşkâl"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d5",
+      "name": "eşkıya"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d4",
+      "name": "eşkin"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d6",
+      "name": "eşofman"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d7",
+      "name": "eşraf"
+    }
+  ],
+  "randomWord": {
+    "_id": "5fef94204fa2712db0e47fee",
+    "name": "takas"
+  }
+}

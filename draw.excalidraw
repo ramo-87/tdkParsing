@@ -1,0 +1,82 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "m_meZ9tSyV_u779Ta6xgc",
+      "type": "rectangle",
+      "x": 627.9453125,
+      "y": 180.33203125,
+      "width": 285.796875,
+      "height": 87.01171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1840552838,
+      "version": 140,
+      "versionNonce": 1475281498,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "7hSVpsLmT4849zfhay8wm"
+        }
+      ],
+      "updated": 1722941660989,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "7hSVpsLmT4849zfhay8wm",
+      "type": "text",
+      "x": 686.9938049316406,
+      "y": 211.337890625,
+      "width": 167.69989013671875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 805665030,
+      "version": 16,
+      "versionNonce": 1030884954,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1722941665847,
+      "link": null,
+      "locked": false,
+      "text": "JSON RESPONSE",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "m_meZ9tSyV_u779Ta6xgc",
+      "originalText": "JSON RESPONSE",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

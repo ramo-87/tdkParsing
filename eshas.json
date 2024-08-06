@@ -1,0 +1,222 @@
+{
+  "isUnsuccessful": false,
+  "words": [
+    {
+      "_id": "5fef94204fa2712db0e48be3",
+      "etymologies": [
+        {
+          "_id": "61d6f334abae44c7616d9bee",
+          "id_depr": 30147,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde24211448",
+            "name": "alıntı",
+            "abbreviation": "~",
+            "text": "den alıntıdır."
+          },
+          "languages": [
+            {
+              "_id": "5fef82841678a972d94724ae",
+              "name": "Arapça",
+              "description": "Klasik yazı Arapçası. Ana kaynaklar: Kamus (15. yy), Vankulu Lugati, Lane Lexicon.",
+              "description2": "Arapça",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "Ar",
+              "id_depr": 9
+            }
+          ],
+          "originalText": "أشخاص",
+          "romanizedText": "aşχāṣ",
+          "grammar": {
+            "semiticRoot": "#şχṣ",
+            "grammaticalCase": "çoğ.",
+            "case": [
+              {
+                "_id": "60657df3b0b20eea7ce44309",
+                "order": 0,
+                "name": "çoğ.",
+                "description": "çoğulu",
+                "tooltip": "çoğul"
+              }
+            ],
+            "semiticForm": {
+              "_id": "6167dd2ef518a02d5b0f17b7",
+              "id_depr": 310,
+              "name": "afˁāl",
+              "description": "Arapça en yaygın çoğul vezinlerinden biridir. Faˁl, fiˁl, fuˁl ve faˁal kalıbındaki adların çoğulunu yapar. İlk ünsüz hemze ise uzun a'ya dönüşür (%iedeb > %iādāb).",
+              "language": {
+                "_id": "5fef82841678a972d94724ae",
+                "name": "Arapça",
+                "description": "Klasik yazı Arapçası. Ana kaynaklar: Kamus (15. yy), Vankulu Lugati, Lane Lexicon.",
+                "description2": "Arapça",
+                "timeCreated": "2021-01-01T20:13:55.477Z",
+                "timeUpdated": "1970-01-01T00:00:00.000Z",
+                "abbreviation": "Ar",
+                "id_depr": 9
+              },
+              "timeCreated": "2021-10-14T02:29:33.000Z",
+              "timeUpdated": "1969-12-31T18:00:00.000Z"
+            }
+          },
+          "definition": "şahıslar",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "2011-06-22T14:26:40.000Z",
+          "timeUpdated": "2013-11-09T15:36:16.000Z",
+          "affixes": {}
+        },
+        {
+          "_id": "61d6f335abae44c7616d9bef",
+          "id_depr": 30148,
+          "paranthesis": "",
+          "relation": {
+            "_id": "5ffb51165b766fde2421144b",
+            "name": "türeme",
+            "abbreviation": "<",
+            "text": "den türetilmiştir."
+          },
+          "languages": [
+            {
+              "_id": "5fef82841678a972d94724ae",
+              "name": "Arapça",
+              "description": "Klasik yazı Arapçası. Ana kaynaklar: Kamus (15. yy), Vankulu Lugati, Lane Lexicon.",
+              "description2": "Arapça",
+              "timeCreated": "2021-01-01T20:13:55.477Z",
+              "timeUpdated": "1970-01-01T00:00:00.000Z",
+              "abbreviation": "Ar",
+              "id_depr": 9
+            }
+          ],
+          "originalText": "شخص",
+          "romanizedText": "şaχṣ",
+          "definition": "",
+          "neologism": "",
+          "wordClass": {
+            "_id": "5ffb5492c4da699a4ff0618a",
+            "name": "sözcük",
+            "description": "sözcük",
+            "abbreviation": "s"
+          },
+          "timeCreated": "2011-06-22T14:26:46.000Z",
+          "timeUpdated": "2011-06-30T10:51:09.000Z",
+          "affixes": {},
+          "grammar": {}
+        }
+      ],
+      "histories": [
+        {
+          "_id": "61d61f5323ba15712c41a866",
+          "id_depr": 18580,
+          "excerpt": "",
+          "definition": "",
+          "source": {
+            "_id": "5fef99ec4d2cb282292e19c8",
+            "name": "Evliya Çelebi",
+            "book": "Seyahatname",
+            "editor": "",
+            "datePublished": "Simurg 2004",
+            "timeCreated": "2021-01-01T21:53:48.003Z",
+            "timeUpdated": "1970-01-01T00:00:00.000Z",
+            "id_depr": 43,
+            "abbreviation": "EÇ",
+            "date": "1665"
+          },
+          "date": "1665",
+          "dateSortable": 1665,
+          "quote": "meştā-yı Haleb'de Elkās Mirzā nām %ueşχās [kişi (tekil)] gelüp pāy-ı serīr-i Süleymān Hān'ı būs idüp [tahtının ayağını öpüp]",
+          "timeCreated": "2013-12-01T18:29:26.000Z",
+          "timeUpdated": "2017-09-05T10:15:23.000Z"
+        }
+      ],
+      "id_depr": 30117,
+      "misspellings": null,
+      "name": "eşhas",
+      "note": "",
+      "queries": ["eşhas"],
+      "references": [
+        {
+          "_id": "5fef94204fa2712db0e47eb6",
+          "id_depr": 10113,
+          "name": "şahıs",
+          "note": "",
+          "timeCreated": "1970-01-01T00:00:00.000Z",
+          "timeUpdated": "2015-06-11T12:22:42.000Z",
+          "queries": ["şahıs", "şahsen", "şahsi", "şahsiyat", "şahsiyet"],
+          "similarWords": ["şahsen", "şahsi", "şahsiyat", "şahsiyet"],
+          "references": [],
+          "etymologies": [
+            {
+              "_id": "61d64634a5eee60d1c0dd1ec"
+            },
+            {
+              "_id": "61d64634a5eee60d1c0dd1ed"
+            }
+          ],
+          "histories": [
+            {
+              "_id": "61d6198823ba15712c418f73"
+            }
+          ]
+        }
+      ],
+      "similarWords": null,
+      "timeCreated": "2011-06-14T16:08:36.000Z",
+      "timeUpdated": "2017-09-05T07:15:23.000Z",
+      "actualTimeUpdated": "2017-09-05T10:15:23.000Z"
+    }
+  ],
+  "fiveBefore": [
+    {
+      "_id": "5fef94204fa2712db0e4907b",
+      "name": "eşcinsel"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464cf",
+      "name": "eşek"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d0",
+      "name": "eşel mobil"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48cd5",
+      "name": "eşelek"
+    },
+    {
+      "_id": "5fef94204fa2712db0e48a02",
+      "name": "eşey"
+    }
+  ],
+  "fiveAfter": [
+    {
+      "_id": "5fef94204fa2712db0e464d1",
+      "name": "eşik"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d2",
+      "name": "eşit"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d3",
+      "name": "eşkâl"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d5",
+      "name": "eşkıya"
+    },
+    {
+      "_id": "5fef94204fa2712db0e464d4",
+      "name": "eşkin"
+    }
+  ],
+  "randomWord": {
+    "_id": "5fef94204fa2712db0e480c8",
+    "name": "teessüf"
+  }
+}

@@ -1,0 +1,1153 @@
+[
+  {
+    "madde_id": "24079",
+    "kac": "0",
+    "kelime_no": "10344",
+    "cesit": "0",
+    "anlam_gor": "0",
+    "on_taki": null,
+    "on_taki_html": null,
+    "madde": "çekmek",
+    "madde_html": "<strong>çekmek</strong>",
+    "cesit_say": "7",
+    "anlam_say": "43",
+    "taki": "er",
+    "cogul_mu": "0",
+    "ozel_mi": "0",
+    "egik_mi": "0",
+    "lisan_kodu": "0",
+    "lisan": "",
+    "telaffuz_html": "",
+    "lisan_html": "",
+    "telaffuz": "",
+    "birlesikler": "çekbırak, çekçek, çekpas, çek valf, çekyat, tutçek, dörtçeker, nemçeker, topçeker, yükçeker",
+    "font": null,
+    "madde_duz": "cekmek",
+    "gosterim_tarihi": null,
+    "anlamlarListe": [
+      {
+        "anlam_id": "18337",
+        "madde_id": "24079",
+        "anlam_sira": "1",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Bir şeyi tutup kendine veya başka bir yöne doğru yürütmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20911",
+            "anlam_id": "18337",
+            "ornek_sira": "1",
+            "ornek": "Hepsi iskemleleri çekerek masanın etrafında bir halka yapmaya hazırlanıyorlardı.",
+            "kac": "1",
+            "yazar_id": "8",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "8",
+                "tam_adi": "Reşat Nuri Güntekin",
+                "kisa_adi": "R. N. Güntekin",
+                "ekno": "133"
+              }
+            ]
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "21",
+            "tur": "3",
+            "tam_adi": "-e",
+            "kisa_adi": "-e",
+            "ekno": "32"
+          },
+          {
+            "ozellik_id": "22",
+            "tur": "3",
+            "tam_adi": "-i",
+            "kisa_adi": "-i",
+            "ekno": "33"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18338",
+        "madde_id": "24079",
+        "anlam_sira": "2",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Taşıtı bir yere bırakmak, koymak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18339",
+        "madde_id": "24079",
+        "anlam_sira": "3",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "► germek",
+        "anlam_html": "<p>► germek</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "44768",
+            "anlam_id": "18339",
+            "ornek_sira": "1",
+            "ornek": "İpi çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18340",
+        "madde_id": "24079",
+        "anlam_sira": "4",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "İçine almak, emmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18341",
+        "madde_id": "24079",
+        "anlam_sira": "5",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir yerden başka bir yere taşımak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20913",
+            "anlam_id": "18341",
+            "ornek_sira": "1",
+            "ornek": "Ekini tarladan çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18342",
+        "madde_id": "24079",
+        "anlam_sira": "6",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir amaçla ortadan kaldırmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20914",
+            "anlam_id": "18342",
+            "ornek_sira": "1",
+            "ornek": "Piyasadaki parayı çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18343",
+        "madde_id": "24079",
+        "anlam_sira": "7",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Üzerinde bulunan bir silahla saldırmak için davranmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20915",
+            "anlam_id": "18343",
+            "ornek_sira": "1",
+            "ornek": "Elindeki tabancayı tetiğine basmak için yeni çekivermiş gibiydi.",
+            "kac": "1",
+            "yazar_id": "7",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "7",
+                "tam_adi": "Tarık Buğra",
+                "kisa_adi": "T. Buğra",
+                "ekno": "132"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18344",
+        "madde_id": "24079",
+        "anlam_sira": "8",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Atmak, vurmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20916",
+            "anlam_id": "18344",
+            "ornek_sira": "1",
+            "ornek": "Dayak çekmek. Şut çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18345",
+        "madde_id": "24079",
+        "anlam_sira": "9",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir kimseyi veya bir şeyi geri almak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18346",
+        "madde_id": "24079",
+        "anlam_sira": "10",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Güç durumlara dayanmak, katlanmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20917",
+            "anlam_id": "18346",
+            "ornek_sira": "1",
+            "ornek": "Yalnız bende meçhul bir hastalık vardı. Sekiz yaşından beri çekiyordum.",
+            "kac": "1",
+            "yazar_id": "17",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "17",
+                "tam_adi": "Peyami Safa",
+                "kisa_adi": "P. Safa",
+                "ekno": "144"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18347",
+        "madde_id": "24079",
+        "anlam_sira": "11",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Tartıda ağırlığı olmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20918",
+            "anlam_id": "18347",
+            "ornek_sira": "1",
+            "ornek": "Tartsaydınız kırk, kırk beş kilodan fazla çekmezdi.",
+            "kac": "1",
+            "yazar_id": "17",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "17",
+                "tam_adi": "Peyami Safa",
+                "kisa_adi": "P. Safa",
+                "ekno": "144"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18348",
+        "madde_id": "24079",
+        "anlam_sira": "12",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "► döşemek",
+        "anlam_html": "<p>► döşemek</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "44056",
+            "anlam_id": "18348",
+            "ornek_sira": "1",
+            "ornek": "Kablo çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18349",
+        "madde_id": "24079",
+        "anlam_sira": "13",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Herhangi bir engel kurmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20920",
+            "anlam_id": "18349",
+            "ornek_sira": "1",
+            "ornek": "Derenin kış yaz kurumayan suları böğürtlen fidanlarını yükseltmiş, iki tarafa yemiş dolu bir koyu çit çekmiş.",
+            "kac": "1",
+            "yazar_id": "15",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "15",
+                "tam_adi": "Refik Halit Karay",
+                "kisa_adi": "R. H. Karay",
+                "ekno": "142"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18350",
+        "madde_id": "24079",
+        "anlam_sira": "14",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Şans denemek amacıyla hazırlanmış kâğıtlardan birini almak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20921",
+            "anlam_id": "18350",
+            "ornek_sira": "1",
+            "ornek": "Birisi niyet çeksin de biz de bir lokma bir şey yiyelim diye bekleşiyorlar.",
+            "kac": "1",
+            "yazar_id": "1",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "1",
+                "tam_adi": "Sait Faik Abasıyanık",
+                "kisa_adi": "S. F. Abasıyanık",
+                "ekno": "8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18351",
+        "madde_id": "24079",
+        "anlam_sira": "15",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "İmbik yardımı ile elde etmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20922",
+            "anlam_id": "18351",
+            "ornek_sira": "1",
+            "ornek": "İspirto çekmek. Gül yağı çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18352",
+        "madde_id": "24079",
+        "anlam_sira": "16",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Çizgi durumunda uzatmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18353",
+        "madde_id": "24079",
+        "anlam_sira": "17",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Aynısını yazmak veya çizmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20923",
+            "anlam_id": "18353",
+            "ornek_sira": "1",
+            "ornek": "Yazıyı temize çekmek. Kopya çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18354",
+        "madde_id": "24079",
+        "anlam_sira": "18",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Tedavi amacıyla şişe, vantuz, sülük vb.ni uygulamak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20924",
+            "anlam_id": "18354",
+            "ornek_sira": "1",
+            "ornek": "Bardak çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18355",
+        "madde_id": "24079",
+        "anlam_sira": "19",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir yerden bir şeyi yukarı doğru almak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18356",
+        "madde_id": "24079",
+        "anlam_sira": "20",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Görüntüyü bir aletle özel bir nesne üzerine kaydetmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20925",
+            "anlam_id": "18356",
+            "ornek_sira": "1",
+            "ornek": "Fotoğraf çekmek. Film çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18357",
+        "madde_id": "24079",
+        "anlam_sira": "21",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Taşıma gücü olmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20926",
+            "anlam_id": "18357",
+            "ornek_sira": "1",
+            "ornek": "Bu araba 500 kilodan çok yük çekmez.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18358",
+        "madde_id": "24079",
+        "anlam_sira": "22",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir şeyi öğütmek",
+        "anlam_html": "<p>Bir şeyi öğütmek</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "44057",
+            "anlam_id": "18358",
+            "ornek_sira": "1",
+            "ornek": "Kahve çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18359",
+        "madde_id": "24079",
+        "anlam_sira": "23",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Protesto, poliçe, çek vb. düzenleyip yürürlüğe koymak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18360",
+        "madde_id": "24079",
+        "anlam_sira": "24",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Hoşa gitmek, sarmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18361",
+        "madde_id": "24079",
+        "anlam_sira": "25",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Kaçan ilmeği örmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20928",
+            "anlam_id": "18361",
+            "ornek_sira": "1",
+            "ornek": "Çorap çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18362",
+        "madde_id": "24079",
+        "anlam_sira": "26",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Masrafını karşılamak, ikramda bulunmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20929",
+            "anlam_id": "18362",
+            "ornek_sira": "1",
+            "ornek": "Beni Konya Lezzet Lokantasına götürdü, âlâ bir öğle yemeği çekti.",
+            "kac": "1",
+            "yazar_id": "14",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "14",
+                "tam_adi": "Halide Edip Adıvar",
+                "kisa_adi": "H. E. Adıvar",
+                "ekno": "141"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18363",
+        "madde_id": "24079",
+        "anlam_sira": "27",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir duyguyu içinde yaşatmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20930",
+            "anlam_id": "18363",
+            "ornek_sira": "1",
+            "ornek": "Ona yanıyorum, onun hasretini çekiyorum.",
+            "kac": "1",
+            "yazar_id": "15",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "15",
+                "tam_adi": "Refik Halit Karay",
+                "kisa_adi": "R. H. Karay",
+                "ekno": "142"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18364",
+        "madde_id": "24079",
+        "anlam_sira": "28",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Yürütmek, sürmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20931",
+            "anlam_id": "18364",
+            "ornek_sira": "1",
+            "ornek": "Aheste çek kürekleri mehtap uyanmasın.",
+            "kac": "1",
+            "yazar_id": "30",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "30",
+                "tam_adi": "Yahya Kemal Beyatlı",
+                "kisa_adi": "Y. K. Beyatlı",
+                "ekno": "161"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18365",
+        "madde_id": "24079",
+        "anlam_sira": "29",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Bir kimse ailesinden birine herhangi bir bakımdan benzemek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20932",
+            "anlam_id": "18365",
+            "ornek_sira": "1",
+            "ornek": "Yeğeninin ona çeken tek yanı yoktur.",
+            "kac": "1",
+            "yazar_id": "7",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "7",
+                "tam_adi": "Tarık Buğra",
+                "kisa_adi": "T. Buğra",
+                "ekno": "132"
+              }
+            ]
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "21",
+            "tur": "3",
+            "tam_adi": "-e",
+            "kisa_adi": "-e",
+            "ekno": "32"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18366",
+        "madde_id": "24079",
+        "anlam_sira": "30",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir şeyin içyüzünü anlamak amacıyla bir kimseyi sıkıştırmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20933",
+            "anlam_id": "18366",
+            "ornek_sira": "1",
+            "ornek": "Sorguya çekmek.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18367",
+        "madde_id": "24079",
+        "anlam_sira": "31",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Herhangi bir anlama almak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20934",
+            "anlam_id": "18367",
+            "ornek_sira": "1",
+            "ornek": "Bak, sözümü nereye çekti!",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "21",
+            "tur": "3",
+            "tam_adi": "-e",
+            "kisa_adi": "-e",
+            "ekno": "32"
+          },
+          {
+            "ozellik_id": "22",
+            "tur": "3",
+            "tam_adi": "-i",
+            "kisa_adi": "-i",
+            "ekno": "33"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18368",
+        "madde_id": "24079",
+        "anlam_sira": "32",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Örtmek, giymek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20935",
+            "anlam_id": "18368",
+            "ornek_sira": "1",
+            "ornek": "Yorganınızı başınıza çeker ve uykunuza devam edersiniz.",
+            "kac": "1",
+            "yazar_id": "15",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "15",
+                "tam_adi": "Refik Halit Karay",
+                "kisa_adi": "R. H. Karay",
+                "ekno": "142"
+              }
+            ]
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "21",
+            "tur": "3",
+            "tam_adi": "-e",
+            "kisa_adi": "-e",
+            "ekno": "32"
+          },
+          {
+            "ozellik_id": "22",
+            "tur": "3",
+            "tam_adi": "-i",
+            "kisa_adi": "-i",
+            "ekno": "33"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18369",
+        "madde_id": "24079",
+        "anlam_sira": "33",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Dişi hayvanı çiftleşmek için erkeğin yanına götürmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "21",
+            "tur": "3",
+            "tam_adi": "-e",
+            "kisa_adi": "-e",
+            "ekno": "32"
+          },
+          {
+            "ozellik_id": "22",
+            "tur": "3",
+            "tam_adi": "-i",
+            "kisa_adi": "-i",
+            "ekno": "33"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18370",
+        "madde_id": "24079",
+        "anlam_sira": "34",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Yol, ay sürmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20936",
+            "anlam_id": "18370",
+            "ornek_sira": "1",
+            "ornek": "Sevmediğim ayların çoğu otuz bir çeker, uzundur.",
+            "kac": "1",
+            "yazar_id": "49",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "49",
+                "tam_adi": "Burhan Felek",
+                "kisa_adi": "B. Felek",
+                "ekno": "180"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18371",
+        "madde_id": "24079",
+        "anlam_sira": "35",
+        "fiil": "1",
+        "tipkes": "0",
+        "anlam": "Daralıp kısalmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20937",
+            "anlam_id": "18371",
+            "ornek_sira": "1",
+            "ornek": "Kumaşı yıkayınca çekti.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "23",
+            "tur": "3",
+            "tam_adi": "nesnesiz",
+            "kisa_adi": "nsz.",
+            "ekno": "34"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18372",
+        "madde_id": "24079",
+        "anlam_sira": "36",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir şeyi asmak",
+        "anlam_html": "<p>Bir şeyi asmak</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "69222",
+            "anlam_id": "18372",
+            "ornek_sira": "1",
+            "ornek": "Açıkta durduk. Demir attık. Kayığa tehlike bayrakları çektik.",
+            "kac": "1",
+            "yazar_id": "52",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "52",
+                "tam_adi": "Halikarnas Balıkçısı",
+                "kisa_adi": "Halikarnas Balıkçısı",
+                "ekno": "183"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18373",
+        "madde_id": "24079",
+        "anlam_sira": "37",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Boya, badana vb. sürmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18374",
+        "madde_id": "24079",
+        "anlam_sira": "38",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir şey yollamak",
+        "anlam_html": "<p>Bir şey yollamak</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "69223",
+            "anlam_id": "18374",
+            "ornek_sira": "1",
+            "ornek": "Çektikleri telgrafı babasıyla annesi, bakalım, alabilecekler mi?",
+            "kac": "1",
+            "yazar_id": "34",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "34",
+                "tam_adi": "Attilâ İlhan",
+                "kisa_adi": "A. İlhan",
+                "ekno": "165"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "anlam_id": "18375",
+        "madde_id": "24079",
+        "anlam_sira": "39",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir şeyi emip dışarıya çıkarmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20940",
+            "anlam_id": "18375",
+            "ornek_sira": "1",
+            "ornek": "Tulumba, suyu iyi çekiyor. Baca iyi çekiyor.",
+            "kac": "1",
+            "yazar_id": "0",
+            "yazar_vd": ""
+          }
+        ]
+      },
+      {
+        "anlam_id": "18376",
+        "madde_id": "24079",
+        "anlam_sira": "40",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Hamur vb. iyice pişmiş duruma gelmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0"
+      },
+      {
+        "anlam_id": "18377",
+        "madde_id": "24079",
+        "anlam_sira": "41",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Bir cisim, belli bir yakınlıktaki başka bir cismi kendisine yaklaşmaya zorlamak, itmek karşıtı",
+        "anlam_html": "<p>Bir cisim, belli bir yakınlıktaki başka bir cismi kendisine yaklaşmaya zorlamak, <strong>itmek </strong>karşıtı</p>\n",
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "58",
+            "tur": "1",
+            "tam_adi": "fizik",
+            "kisa_adi": "fiz.",
+            "ekno": "108"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18378",
+        "madde_id": "24079",
+        "anlam_sira": "42",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "Vericiden gelen dalgaları algılayarak televizyon, radyo, telefon vb. aygıtlarla bağlantı kurmak",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "61",
+            "tur": "1",
+            "tam_adi": "teknik",
+            "kisa_adi": "tek.",
+            "ekno": "112"
+          }
+        ]
+      },
+      {
+        "anlam_id": "18379",
+        "madde_id": "24079",
+        "anlam_sira": "43",
+        "fiil": "0",
+        "tipkes": "0",
+        "anlam": "İçki içmek",
+        "anlam_html": null,
+        "gos": "0",
+        "gos_kelime": "0",
+        "gos_kultur": "0",
+        "orneklerListe": [
+          {
+            "ornek_id": "20941",
+            "anlam_id": "18379",
+            "ornek_sira": "1",
+            "ornek": "Çok kimse rakısını bağında çekiyordu.",
+            "kac": "1",
+            "yazar_id": "4",
+            "yazar_vd": "",
+            "yazar": [
+              {
+                "yazar_id": "4",
+                "tam_adi": "Falih Rıfkı Atay",
+                "kisa_adi": "F. R. Atay",
+                "ekno": "129"
+              }
+            ]
+          }
+        ],
+        "ozelliklerListe": [
+          {
+            "ozellik_id": "30",
+            "tur": "4",
+            "tam_adi": "argo",
+            "kisa_adi": "argo",
+            "ekno": "41"
+          }
+        ]
+      }
+    ],
+    "atasozu": [
+      {
+        "madde_id": "24080",
+        "madde": "çek! (veya çek arabanı!)",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24081",
+        "madde": "çekeceği olmak",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24082",
+        "madde": "çekip almak",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24083",
+        "madde": "çekip çevirmek",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24084",
+        "madde": "çekip gitmek",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24085",
+        "madde": "çekip vurmak",
+        "on_taki": null
+      },
+      {
+        "madde_id": "24086",
+        "madde": "çekiver kuyruğunu",
+        "on_taki": null
+      }
+    ]
+  }
+]
