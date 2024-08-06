@@ -8,11 +8,14 @@ async function parseJSON(word) {
     if (!word.error) {
       // if the response contains actual data not an error
       for (let i = 0; i < word.length; i++) {
-        console.log(word[i].madde);
+        console.log(
+          `${word[i].madde} ${word[i].lisan ? word[i].lisan : "Yok"}`
+        );
         for (let j = 0; j < word[i].anlamlarListe.length; j++) {
           let meaning = word[i].anlamlarListe[j].anlam;
           let features = word[i].anlamlarListe[j].ozelliklerListe;
           let featureString;
+
           // Main if statement to figure out if the meaning has an ozelliklerListe in the JSON Resp.
           if (features) {
             let typeArray = features.map((feature) => feature.tur);
@@ -24,7 +27,8 @@ async function parseJSON(word) {
               featureString = `(${features
                 .map((feature) => feature.tam_adi)
                 .join(", ")})`;
-            } else if (topType != "3" && topType != undefined) {
+            }
+            if (topType != "3" && topType != undefined) {
               const subType = word[i].anlamlarListe[0].ozelliklerListe
                 .map((feature) =>
                   feature.tur == "3" || feature.tur == "4"
@@ -53,7 +57,7 @@ async function parseJSON(word) {
         }
       }
     } else {
-      console.log(`Words not found`);
+      console.log(`Word not found`);
     }
   } catch (error) {
     console.log(`Error Parsing Response` + error);
