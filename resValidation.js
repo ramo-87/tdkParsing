@@ -7,10 +7,10 @@ async function parseJSON(word) {
   try {
     if (!word.error) {
       // if the response contains actual data not an error
+
       for (let i = 0; i < word.length; i++) {
-        console.log(
-          `${word[i].madde} ${word[i].lisan ? word[i].lisan : "Yok"}`
-        );
+        console.log(word[i].madde);
+
         for (let j = 0; j < word[i].anlamlarListe.length; j++) {
           let meaning = word[i].anlamlarListe[j].anlam;
           let features = word[i].anlamlarListe[j].ozelliklerListe;
@@ -27,38 +27,18 @@ async function parseJSON(word) {
               featureString = `(${features
                 .map((feature) => feature.tam_adi)
                 .join(", ")})`;
-            }
-            if (topType != "3" && topType != undefined) {
-              const subType = word[i].anlamlarListe[0].ozelliklerListe
-                .map((feature) =>
-                  feature.tur == "3" || feature.tur == "4"
-                    ? feature.tam_adi
-                    : ""
-                )
-                .filter((feature) => feature != "")
-                .join(", ");
-
-              const meaningOwnType = features
-                .map((feature) => feature.tam_adi)
-                .join(", ");
-
-              featureString = `(${subType}, ${meaningOwnType})`;
+            } else if (topType != "3") {
+              featureString = `(${word[i].anlamlarListe[0].ozelliklerListe
+                .map((feature) => feature.tam_adi) // Will just go over the contents of the ozellikerListe[0]
+                .join(", ")}, ${features
+                .map((feature) => feature.tam_adi) // This map will go over ozelliklerListe that has tur value != 3 and adds their tam_adi to feautureString
+                .join(", ")}) `;
             }
           } else {
-            let fallbackType = word[i].anlamlarListe[0].ozelliklerListe
-              .map((feature) => {
-                if (feature.tur == "3") {
-                  return feature.tam_adi;
-                } else {
-                  return "";
-                }
-              })
-              .filter((feature) => feature != "")
-              .join(", ");
-
-            // fallbackType.join(fallbackType.length > 0 ? "|" : "");
             // if the meaning does not have ozelliklerListe so it will inherit the ozelliklerListe from the first element of anlamlarListe
-            featureString = `(${fallbackType})`;
+            featureString = `(${word[i].anlamlarListe[0].ozelliklerListe
+              .map((fallbackFeature) => fallbackFeature.tam_adi)
+              .join(", ")})`;
           }
           console.log(`${j + 1}- ${featureString} ${meaning}`);
         }
@@ -67,9 +47,8 @@ async function parseJSON(word) {
       console.log(`Word not found`);
     }
   } catch (error) {
-    console.log(`Error Parsing Response` + error);
+    console.log(`Error parsing response` + error);
   }
 }
-module.exports = {
-  parseJSON,
-};
+
+parseJSON("meme");
