@@ -56,7 +56,6 @@ async function parseJSON(word) {
               .filter((feature) => feature != "")
               .join(", ");
 
-            // fallbackType.join(fallbackType.length > 0 ? "|" : "");
             // if the meaning does not have ozelliklerListe so it will inherit the ozelliklerListe from the first element of anlamlarListe
             featureString = `(${fallbackType})`;
           }
