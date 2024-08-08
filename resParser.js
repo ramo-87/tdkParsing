@@ -12,8 +12,8 @@ async function parseJSON(word) {
           `${word[i].madde} ${word[i].lisan ? word[i].lisan : "Yok"}`
         );
         for (let j = 0; j < word[i].anlamlarListe.length; j++) {
-          let meaning = word[i].anlamlarListe[j].anlam;
-          let features = word[i].anlamlarListe[j].ozelliklerListe;
+          const meaning = word[i].anlamlarListe[j].anlam;
+          const features = word[i].anlamlarListe[j].ozelliklerListe;
           let featureString;
 
           // Main if statement to figure out if the meaning has an ozelliklerListe in the JSON Resp.
@@ -25,30 +25,30 @@ async function parseJSON(word) {
 
             if (topType == "3") {
               featureString = `(${features
-                .map((feature) => feature.tam_adi)
+                .map((ParentFeature) => ParentFeature.tam_adi)
                 .join(", ")})`;
             }
             if (topType != "3" && topType != undefined) {
               const subType = word[i].anlamlarListe[0].ozelliklerListe
-                .map((feature) =>
-                  feature.tur == "3" || feature.tur == "4"
-                    ? feature.tam_adi
+                .map((parentFeature) =>
+                  parentFeature.tur == "3" || parentFeature.tur == "4"
+                    ? parentFeature.tam_adi
                     : ""
                 )
-                .filter((feature) => feature != "")
+                .filter((parentFeature) => parentFeature != "")
                 .join(", ");
 
               const meaningOwnType = features
-                .map((feature) => feature.tam_adi)
+                .map((OwnFeature) => OwnFeature.tam_adi)
                 .join(", ");
 
               featureString = `(${subType}, ${meaningOwnType})`;
             }
           } else {
             let fallbackType = word[i].anlamlarListe[0].ozelliklerListe
-              .map((feature) => {
-                if (feature.tur == "3") {
-                  return feature.tam_adi;
+              .map((fallbackFeature) => {
+                if (fallbackFeature.tur == "3") {
+                  return fallbackFeature.tam_adi;
                 } else {
                   return "";
                 }

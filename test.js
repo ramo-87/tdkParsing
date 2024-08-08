@@ -1,3 +1,3 @@
 const tdk = require("./resParser.js");
 
-tdk.parseJSON("");
+tdk.parseJSON("hakim");
