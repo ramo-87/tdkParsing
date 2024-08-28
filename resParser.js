@@ -67,8 +67,10 @@ async function parseResponse(word) {
     console.log(`Error Parsing Response` + error);
   }
 }
-
-parseResponse("meme").then((data) => console.log(data));
+const args = process.argv.filter((x, index) => index > 1).join(" ");
+parseResponse(args)
+  .then((data) => console.log(data))
+  .catch((error) => console.log(error));
 module.exports = {
   parseResponse,
 };
