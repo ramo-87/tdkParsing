@@ -1,16 +1,14 @@
 "use strict";
 const axios = require("axios");
 
-async function parseJSON(word) {
+async function parseResponse(word) {
   const response = await axios.get(`https://sozluk.gov.tr/gts_id?id=${word}`);
   word = response.data;
   try {
     if (!word.error) {
       // if the response contains actual data not an error
       for (let i = 0; i < word.length; i++) {
-        console.log(
-          `${word[i].madde} ${word[i].lisan ? word[i].lisan : "Yok"}`
-        );
+        console.log(`${word[i].madde}`);
         for (let j = 0; j < word[i].anlamlarListe.length; j++) {
           const meaning = word[i].anlamlarListe[j].anlam;
           const features = word[i].anlamlarListe[j].ozelliklerListe;
@@ -69,6 +67,8 @@ async function parseJSON(word) {
     console.log(`Error Parsing Response` + error);
   }
 }
+
+parseResponse("meme").then((data) => console.log(data));
 module.exports = {
-  parseJSON,
+  parseResponse,
 };
